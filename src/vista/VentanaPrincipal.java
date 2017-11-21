@@ -6,7 +6,7 @@ import modelo.CurrencyList;
 
 public class VentanaPrincipal extends JFrame {
     private final int WIDTH = 500;
-    private final int HEIGTH = 300;
+    private final int HEIGTH = 100;
     private final String TITULO = "Money Calculator";
     PanelMoney panel;
 
